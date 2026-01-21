@@ -5,11 +5,11 @@ About the Project :
 This project is a C++ implementation of the backend logic of Candy Crush, built as part of my first semester CS project.
 The focus is logic building, not graphics.It simulates how the game works behind the scenes:
 
-i.matching candies
-ii.removing matches
-iii.dropping candies
-iv.refilling the board
-v.updating the score
+i.matching candies <br>
+ii.removing matches <br>
+iii.dropping candies <br>
+iv.refilling the board <br>
+v.updating the score <br>
 
 This project helped me understand loops, arrays, conditions, and game logic in a practical way.
 
@@ -17,15 +17,15 @@ Concepts Used :
 
 This project helped me practice:
 
-i.Nested loops
-ii.2D arrays
-iii.Conditional statements
-iv.Functions
-v.Random number generation
-vi.Logic building & problem solving
+i.Nested loops <br>
+ii.2D arrays <br>
+iii.Conditional statements <br>
+iv.Functions <br>
+v.Random number generation <br>
+vi.Logic building & problem solving <br>
 
 Technologies Used :
 
-i.Language: C++
-ii.Compiler: g++ / any standard C++ compiler
-iii.Environment: Console-based
+i.Language: C++ <br>
+ii.Compiler: g++ / any standard C++ compiler <br>
+iii.Environment: Console-based <br>
